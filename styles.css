@@ -1,0 +1,13 @@
+.a{
+    background-color: aliceblue;
+}
+body {
+    background-color: rgb(23, 33, 43);
+    margin: 0px;
+}
+#map {
+    background-color: aliceblue;
+    width: 90%;
+    height: 700px;
+    margin: auto
+}
